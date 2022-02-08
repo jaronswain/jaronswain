@@ -1,6 +1,6 @@
 ### Hi there!
 I'm a GIS Analyst and Geographer with a passion for all things spatial data.
-This is where I publish some of my geospatial tools/scripts and projects.
+This is where I publish some of my personal geospatial tools/scripts and projects.
 
 # 🌎🌍🌏
 <!--
