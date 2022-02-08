@@ -1,7 +1,7 @@
 ## 🌎🌍🌏
 ### Hi there 👋
 
-Hi there, welcome to my GitHub. This is where I publish some of my geospatial tools and scripts.
+Hi there, I'm a GIS Analyst and Geographer with a passion for spatial data. This is where I publish geospatial tools/scripts and some of my projects.
 
 <!--
 **jaronswain/jaronswain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
