@@ -1,5 +1,4 @@
-## 🌎🌍🌏
-### Hi there 👋
+### 🌎🌍🌏
 
 Hi there, I'm a GIS Analyst and Geographer with a passion for spatial data. This is where I publish geospatial tools/scripts and some of my projects.
 
