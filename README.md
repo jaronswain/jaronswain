@@ -1,8 +1,8 @@
-### Hi there!
-I'm a GIS Analyst and Geographer with a passion for all things spatial data.
-This is where I publish some of my personal geospatial tools/scripts and projects.
-
 # 🌎🌍🌏
+Hi there, I'm a GIS Analyst and Geographer with a passion for all things spatial data.
+This is where I publish some of my geospatial tools/scripts and projects.
+
+
 <!--
 **jaronswain/jaronswain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
